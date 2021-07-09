@@ -1,0 +1,29 @@
+                                                                         Corona Dash
+
+ coding platform- Visual Stuido code
+
+ Story-There is corona all around the world and a man called worrior is been give a mission from people around the to find out the vaccine which is lost in the forest of Aura and bring it in world so every thing comes to normal.
+
+Goal- To find and bring the vaccine.
+
+Characters (PC)-worrior 
+           (NPC)-corona,Masks,Sanitizer
+
+Rules- 1-when ever the corona virus toches the player the health should start decresing 
+2-when the player taps on mask or sanitizer button the health should increas by a certain amount.
+3- when the player is moving the speed and the damage of the corona increases 
+4-the player has two chances to play a certain level ,and in the middle of the game if the player is lucky he will find a extra life. 
+5- the player can move his carecter with three diffrent options (moving forword)
+(moving backwords) (jumping)
+6- the game will end when the player will reach the vaccine.
+                                 Level 1 
+       
+ 1- corona is the obstacle the player has to jump over the obstacle
+ 2-there will be mask and sanitizers on the ground yo pick up when the person is infected by corona
+ 3-there will be infected people that will also be used as obstacles  and when the player is near the infected player for a long time the player gets infected.
+ 4-when the corona touches the player the  health will start to decrease.
+ 5-the player has to reach the vaccine to gain victory. 
+
+
+
+
